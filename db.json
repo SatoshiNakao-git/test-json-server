@@ -1,0 +1,59 @@
+[
+  {
+    "id": "7",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト7",
+    "date": "2021.07.07",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "6",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト6",
+    "date": "2021.06.06",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "5",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト5",
+    "date": "2021.05.05",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "4",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト4",
+    "date": "2021.04.04",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "3",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト3",
+    "date": "2021.03.03",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "2",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト2",
+    "date": "2021.02.02",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  },
+  {
+    "id": "1",
+    "img":"img/caseStudyArcheve_cardimg.jpg",
+    "title": "ここにダミーテキストはいりますここにダミーテキスト1",
+    "date": "2021.01.01",
+    "categories":["aaa","ダミーテキスト1","SalesCloud"],
+    "url":"case_study_01.html"
+  }
+]
+
