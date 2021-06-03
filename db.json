@@ -2,7 +2,7 @@
     "casestudy": [
         {
             "id": "7",  
-            "img":"/assets/img/caseStudyArchive_cardimg.jpg",
+            "img":"~/assets/img/caseStudyArchive_cardimg.jpg",
             "title": "ここにダミーテキストはいりますここにダミーテキスト7",
             "date": "2021.07.07",
             "categories":["aaa","ダミーテキスト1","SalesCloud"],
