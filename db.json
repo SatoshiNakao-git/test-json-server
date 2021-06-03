@@ -3,25 +3,25 @@
     "id": "4",
     "img":"img/caseStudyArcheve_cardimg.jpg",
     "title": "ここにダミーテキストはいりますここにダミーテキスト4",
-    "date": "2021.04.04",
+    "date": "2021.04.04"
   },
   {
     "id": "3",
     "img":"img/caseStudyArcheve_cardimg.jpg",
     "title": "ここにダミーテキストはいりますここにダミーテキスト3",
-    "date": "2021.03.03",
+    "date": "2021.03.03"
   },
   {
     "id": "2",
     "img":"img/caseStudyArcheve_cardimg.jpg",
     "title": "ここにダミーテキストはいりますここにダミーテキスト2",
-    "date": "2021.02.02",
+    "date": "2021.02.02"
   },
   {
     "id": "1",
     "img":"img/caseStudyArcheve_cardimg.jpg",
     "title": "ここにダミーテキストはいりますここにダミーテキスト1",
-    "date": "2021.01.01",
+    "date": "2021.01.01"
   }
 ]
 
